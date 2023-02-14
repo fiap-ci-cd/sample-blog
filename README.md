@@ -30,5 +30,6 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 Courtesy of [Vikas Rai](https://github.com/raiv200)
 
+fix: Corrigindo BUgS
 
 Novo link
