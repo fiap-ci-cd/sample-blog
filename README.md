@@ -30,5 +30,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 Courtesy of [Vikas Rai](https://github.com/raiv200)
 
-
-QUALQUER COISA NOVA
+Refazendo o exercicio - aula 3 - 05-03-2023
